@@ -1,10 +1,6 @@
-# Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE:07/10/2024
-### Name: MOHAMED AAKIF ASRAR S
-### Register Number: 212223240088
-
-
+### DATE: 10/11/2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -50,9 +46,13 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![1](https://github.com/Yuvaraj878/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118622554/09996c8c-2cb4-49d1-9b91-fc3acd882031)
+![Screenshot 2024-04-22 183014](https://github.com/akash7812/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146819826/0bb28d5a-2018-4d33-8eca-0d5d69e82368)
+![Screenshot 2024-11-23 131821](https://github.com/user-attachments/assets/6ea97315-3097-4a30-8f0c-c999d645872a)
+![Screenshot 2024-11-23 131833](https://github.com/user-attachments/assets/eee5d5eb-0c3b-4e9c-b2eb-bad3cfb84d1f)
+![Screenshot 2024-11-23 131843](https://github.com/user-attachments/assets/54aac8bf-eccc-45f7-ab40-f02e7d5cab75)
 
-
+### Name:MOHAMED AAKIF ASRAR S
+### Register Number:212223240088
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
